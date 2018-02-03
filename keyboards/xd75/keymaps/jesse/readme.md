@@ -1,1 +1,1 @@
-# The default keymap for xd75
+# Jesse's keymap for xd75
